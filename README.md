@@ -1,56 +1,98 @@
-# Excel-Project-repo
-# Excel Data Analysis Project – Data Technician Bootcamp
+# Excel Retail & Sales Data Analysis Project
 
-## 📌 Project Overview
+## Overview
+This project was completed as part of a **Data Technician Bootcamp**, where I developed practical Excel skills for data analysis, reporting, and visualization using retail sales and bike sales datasets. The project involved transforming raw data into meaningful insights through formulas, PivotTables, data cleaning techniques, and visual dashboards.
 
-This project was completed as part of my Level 3 Data Technician Skills Bootcamp. It demonstrates my practical experience using Microsoft Excel to organise, analyse, summarise, and visualise retail and sales data.
+## Key Skills Demonstrated
 
-Through hands-on exercises, I developed my spreadsheet skills by applying Excel formulas and functions, filtering and sorting datasets, creating PivotTables, categorising sales performance, and building charts to identify patterns and insights within data.
+### Data Analysis & Data Preparation
+- Sorted and filtered large datasets to identify trends and patterns.
+- Organised and validated retail sales data for analysis.
+- Applied custom sorting and filtering techniques to improve data usability.
 
-## 🛠️ Skills Demonstrated
+### Excel Functions & Formulas
+Used a variety of Excel functions to perform calculations, data lookups, and date analysis, including:
 
-- **Excel Formulas and Functions:** `SUM`, `SUMIF`, `AVERAGE`, `DATE`, `MONTH`, `YEAR`, `UNIQUE`, `VLOOKUP`, and `SWITCH`.
-- **Data Filtering and Sorting:** Filtered and sorted records to organise datasets and examine specific information.
-- **PivotTables:** Summarised sales data by product, country, age group, gender, and county.
-- **Data Categorisation:** Used the `SWITCH` function to classify sales volumes into High, Medium, and Low categories.
-- **Data Visualisation:** Created line charts, column charts, and pie charts to present sales information visually.
-- **Data Analysis:** Calculated total and average commissions and explored sales patterns across different categories.
-- **Data Handling and Preparation:** Worked with retail transactions, bike sales, and product sales datasets to practise organising and analysing structured data.
+- `SUM()`
+- `SUMIF()`
+- `AVERAGE()`
+- `AVERAGEIF()`
+- `DATE()`
+- `MONTH()`
+- `YEAR()`
+- `UNIQUE()`
+- `VLOOKUP()`
+- `SWITCH()`
 
-## 📊 Project Tasks
+#### Applications
+- Calculated total sales and commission values.
+- Produced average sales metrics and performance indicators.
+- Analysed sales trends by month and year.
+- Retrieved data from related tables using VLOOKUP.
+- Identified unique records and categories.
+- Categorised sales performance using the SWITCH function.
+- Performed conditional calculations with SUMIF and AVERAGEIF.
 
-### 1. Retail Sales Data Analysis
-- Applied filtering and sorting to transaction records.
-- Used `SUM` to calculate total commission.
-- Used `AVERAGE` to calculate average commission.
-- Practised Excel functions to retrieve, calculate, and organise information.
+### PivotTables & Reporting
+Created PivotTables to summarise and analyse data by:
 
-### 2. Bike Sales Analysis
-- Created PivotTables to summarise sales data.
-- Explored sales patterns across countries, age groups, and gender.
-- Practised interpreting aggregated data to identify trends and comparisons.
+- Country
+- County
+- Product
+- Age Group
+- Gender
 
-### 3. Product Sales Analysis
-- Created a PivotTable to summarise sales volumes by county and product.
-- Applied the `SWITCH` function to categorise products according to sales volume.
-- Practised using formulas to support consistent data classification.
+Key activities included:
+- Aggregating sales volumes and revenue.
+- Comparing performance across regions and customer demographics.
+- Identifying profitable market segments.
+- Generating dynamic reports for decision-making.
 
-### 4. Sales Data Visualisation
-- Created line, column, and pie charts.
-- Used visualisations to present data in a clear and accessible format.
-- Developed an understanding of how charts can support data interpretation and reporting.
+### Data Visualisation
+Designed charts to present insights clearly and effectively, including:
 
-## 💡 Key Learning Outcomes
+- Line Charts
+- Column Charts
+- Pie Charts
+- Pivot Charts
 
-This project strengthened my ability to use Excel for everyday data tasks, including data organisation, calculations, categorisation, summarisation, and visual reporting. It also helped me develop a foundation in identifying patterns within datasets and communicating information in a structured way.
+Visualisations were used to:
+- Track sales trends over time.
+- Compare product and regional performance.
+- Display customer and revenue distributions.
 
-## 💻 Tools Used
+## Project Outcomes
+
+Through data exploration and reporting, I was able to:
+
+- Identify high-performing products and regions.
+- Analyse customer demographics and purchasing trends.
+- Summarise large datasets into actionable insights.
+- Present findings through professional charts and reports.
+- Support data-driven decision-making using Excel tools.
+
+## Tools & Techniques
 
 - Microsoft Excel
-- Excel formulas and functions
 - PivotTables
-- Charts and data visualisation
+- Pivot Charts
+- Filtering & Sorting
+- Data Visualisation
+- Lookup Functions
+- Conditional Functions
+- Data Aggregation
 
-## 🎯 Skills Relevant to Data Roles
+## Learning Outcomes
 
-The skills demonstrated in this project are relevant to entry-level opportunities in **data administration, data analysis, reporting, and business intelligence**. The project reflects my ongoing development in data preparation, spreadsheet analysis, and presenting information to support informed decision-making.
+This project strengthened my ability to:
+
+- Analyse large datasets efficiently.
+- Use advanced Excel formulas and functions.
+- Build interactive reports using PivotTables.
+- Create clear and effective visualisations.
+- Extract business insights from retail and sales data.
+
+---
+
+**Bootcamp:** Data Technician Programme  
+**Focus Areas:** Excel, Data Analysis, Reporting, Business Intelligence, Data Visualisation, Retail & Sales Analytics
