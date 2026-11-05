@@ -1,7 +1,7 @@
 # Excel Retail & Sales Data Analysis Project
 
 ## Overview
-This project was completed as part of a ** Level 3 Data Technician Skills Bootcamp**, where I developed practical Excel skills for data analysis, reporting, and visualization using retail sales and bike sales datasets. The project involved transforming raw data into meaningful insights through formulas, PivotTables, data cleaning techniques, and visual dashboards.
+This project was completed as part of a Level 3 Data Technician Skills Bootcamp, where I developed practical Excel skills for data analysis, reporting, and visualization using retail sales and bike sales datasets. The project involved transforming raw data into meaningful insights through formulas, PivotTables, data cleaning techniques, and visual dashboards.
 
 ## Key Skills Demonstrated
 
