@@ -96,3 +96,12 @@ This project strengthened my ability to:
 
 **Bootcamp:** Data Technician Programme  
 **Focus Areas:** Excel, Data Analysis, Reporting, Business Intelligence, Data Visualisation, Retail & Sales Analytics
+
+<img width="691" height="361" alt="image" src="https://github.com/user-attachments/assets/3f075b37-b889-4587-9e26-e4f661721766" />
+
+<img width="691" height="325" alt="image" src="https://github.com/user-attachments/assets/bf3397b7-82ea-4a9f-b4a5-28e664f72e76" />
+
+<img width="691" height="333" alt="image" src="https://github.com/user-attachments/assets/0d483490-6c9a-4650-96df-0202f1e3326a" />
+
+
+
